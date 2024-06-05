@@ -15,7 +15,7 @@ import java.util.Map;
 public class JwtUtil {
 
 
-    public static final String SECRET = "gooloussamagharianitothisprojectwillbenumberone";
+    public static final String SECRET = "gooloussamlagharianitothisprojectwillbenumberone";
 
 
     public void validateToken(final String token) {
